@@ -110,7 +110,16 @@ footer{
     border-radius: 10px;
     padding: 20px;
     background: linear-gradient(to bottom, white 0%, rgb(207 207 228) 30%, rgb(135 135 204 / 42%) 70%, rgb(143 143 220 / 82%) 100%);
+    
 }
+
+.box {
+    position: fixed;
+    top: 20vh;
+    left: 73vh;
+    z-index: 10;
+}
+
 
 .inputlabel{
     font-size: 20px;
@@ -130,6 +139,10 @@ footer{
     transform: scale(1.01);
     box-shadow: 2px 2px 10px black;
 
+}
+
+.input:focus{
+    outline: 1px solid rgb(244, 184, 115);
 }
 
 .add_expense{
