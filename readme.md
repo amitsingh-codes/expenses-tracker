@@ -23,10 +23,10 @@ Your data stays saved even after refreshing the page using **Local Storage**.
 ## 🖼️ Preview
 
 ### Expense List View
-![alt text](expense_list.png)
+![alt text](images\add_expense.png)
 
 ### Add Expense Popup
-![alt text](add_expense.png)
+![alt text](images\add_expense.png)
 
 ## 🛠️ Tech Stack
 
